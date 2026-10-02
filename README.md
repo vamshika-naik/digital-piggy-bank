@@ -16,3 +16,15 @@ Run the Python script in your Terminal:
 ```bash
 python3 piggy_bank.py
 
+## 💻 Sample Output
+
+```text
+Added $50. Balance: $50
+Spent $20. Remaining: $30
+Not enough money!
+
+--- Bonus Test ---
+Sarah's balance: $100
+Alex's balance: $25
+```
+
