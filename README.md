@@ -15,6 +15,7 @@ Run the Python script in your Terminal:
 
 ```bash
 python3 piggy_bank.py
+```
 
 ## 💻 Sample Output
 
